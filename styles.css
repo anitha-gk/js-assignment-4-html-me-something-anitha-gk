@@ -1,1 +1,33 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    /*border: 1px solid #4CAF50;*/
+    display: block;
+      background-color:gainsboro;
+  }
+  img {
+    width: 40%;
+    height: auto;
+    padding: 70px;
+  }
+  .funParagraph{
+      color:green;
+  }
+    p{
+        font-size: 20px;
+        width: 70%;
+    }
+    main{
+        font-size: 20px;
+    }
+   
+  #mainHeading{
+      color:red;
+  }
+  h1{
+    text-align: center;
+  }
+  .back{
+    text-align: right;
+
+  }
